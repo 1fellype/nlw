@@ -6,7 +6,7 @@
 
  Projeto construído no evento Next Level Week da Rocketseat.
 
- [Clique aqui para acessar! :)](https://1fellype.github.io/nlw-esports-explorer/)
+ [Clique aqui para acessar! :)](https://nlwesportsexplorer-fellype.vercel.app/)
 
 ## Tecnologias
 
